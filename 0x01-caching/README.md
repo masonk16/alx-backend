@@ -206,7 +206,7 @@ Create a class `FIFOCache` that inherits from `BaseCaching` and is a caching sys
   * Must assign to the dictionary `self.cache_data` the item value for the key `key`.
   * If `key` or `item` is `None`, this method should not do anything.
   * If the number of items in `self.cache_data` is higher that `BaseCaching.MAX_ITEMS`:
-    * you must discard the first item put in cache (FIFO algorithm)
+    * you must discard the first item put in cache (LIFO algorithm)
     * you must print `DISCARD:` with the `key` discarded and following by a new line
 * `def get(self, key):`
   * Must return the value in `self.cache_data` linked to `key`.

@@ -1,0 +1,8 @@
+Collecting jinja2
+  Downloading https://files.pythonhosted.org/packages/bc/c3/f068337a370801f372f2f8f6bad74a5c140f6fda3d9de154052708dd3c65/Jinja2-3.1.2-py3-none-any.whl (133kB)
+Requirement already satisfied, skipping upgrade: MarkupSafe>=2.0 in /usr/local/lib/python3.7/site-packages (from jinja2) (2.1.1)
+Installing collected packages: jinja2
+  Found existing installation: Jinja2 3.1.1
+    Uninstalling Jinja2-3.1.1:
+      Successfully uninstalled Jinja2-3.1.1
+Successfully installed jinja2-3.1.2

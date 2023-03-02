@@ -1,12 +1,12 @@
-# English translations for PROJECT.
-# Copyright (C) 2023 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
+# English translations for 0x02-i18n.
+# Copyright (C) 2023 Mason Mapfundematsva
+# This file is distributed under the same license as the 0x02-i18n project.
 # Mason Mapfundematsva <masonmapfunde@gmail.com>, 2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: Mason MApfundematsva\n"
+"Report-Msgid-Bugs-To: Mason Mapfundematsva\n"
 "POT-Creation-Date: 2023-03-01 09:19+0000\n"
 "PO-Revision-Date: 2023-03-01 09:20+0000\n"
 "Last-Translator: Mason Mapfundematsva <masonmapfunde@gmail.com>\n"

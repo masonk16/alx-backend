@@ -1,6 +1,6 @@
-# French translations for PROJECT.
-# Copyright (C) 2023 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
+# French translations for 0x02-i18n.
+# Copyright (C) 2023 Mason Mapfundematsva
+# This file is distributed under the same license as the 0x02-i18n project.
 # Mason Mapfundematsva <masonmapfunde@gmail.com>, 2023.
 #
 msgid ""
